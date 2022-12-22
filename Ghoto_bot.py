@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-The idea here is to create one discord bot I leave running to orchestrate the others.
+The idea here is to create a Discord chatbot that you can play little mini-games with. Since I am an anime fan, I themed it after the popular bulter character (inspired by the popular software Jenkins to do so). I have worked on a few mini-games for this and have a few morre in the works.
 """
 import numpy as np
 import discord
